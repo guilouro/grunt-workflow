@@ -14,7 +14,7 @@ module.exports = function(grunt) {
             pkg: grunt.file.readJSON("package.json"),
             path: {
                 src: 'assets/',
-                dest: '../static/'
+                dest: 'build/'
             }
         }
     });

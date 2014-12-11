@@ -1,8 +1,8 @@
 http_path = "assets/",
-css_dir = "../static/css/",
+css_dir = "build/css/",
 sass_dir = "assets/scss/",
-images_dir = "assets/img/",
-javascripts_dir = "assets/js/"
+images_dir = "build/img/",
+javascripts_dir = "build/js/"
 
 # output_style = :expanded or :nested or :compact or :compressed
 output_style = :expanded

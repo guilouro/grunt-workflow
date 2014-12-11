@@ -1,5 +1,8 @@
 default: 
-  - 'concurrent:runserver'
+  - 'watch'
 b:
   - 'concurrent:build'
   - 'concurrent:lint'
+r: 
+  - 'b'
+  - 'rsync'
