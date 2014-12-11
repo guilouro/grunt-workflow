@@ -4,6 +4,11 @@ This is a simple grunt workflow for add on projects
 
 ### How to use
 
+```shell
+ $ git clone https://github.com/guilouro/grunt-workflow.git .
+ $ npm install 
+```
+
 Configure to project folder in `Gruntfile.js`
 
 ```javascript
