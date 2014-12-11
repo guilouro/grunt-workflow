@@ -1,0 +1,5 @@
+default: 
+  - 'concurrent:runserver'
+b:
+  - 'concurrent:build'
+  - 'concurrent:lint'

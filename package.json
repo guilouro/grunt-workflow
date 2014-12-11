@@ -1,0 +1,22 @@
+{
+  "name": "project-name",
+  "version": "0.1.0",
+  "title": "Project Title",
+  "homepage": "www.project.com",
+  "description": "Some description.",
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-csslint": "^0.3.1",
+    "grunt-contrib-django": "^0.1.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-config": "^0.13.2",
+    "time-grunt": "^1.0.0"
+  }
+}
