@@ -6,3 +6,6 @@ b:
 r: 
   - 'b'
   - 'rsync'
+rs:
+  - 'connect'
+  - 'watch'

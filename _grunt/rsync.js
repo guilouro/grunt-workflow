@@ -7,7 +7,7 @@ module.exports = {
 	},
 	production: {
 		options: {
-			src: "build/",
+			src: "<%= path.dest %>",
 			dest: "/path/server",
 			host: "user@host.com",
 		}
