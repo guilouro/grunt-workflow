@@ -9,8 +9,8 @@ Configure to project folder in `Gruntfile.js`
 ```javascript
 	...
 	path: {
-        src: 'assets/' //your source path,
-        dest: 'build/ //your destiny path'
+        src: 'assets/', //your source path
+        dest: 'build/' //your destiny path
     }
     ...
 ```
