@@ -5,7 +5,11 @@
   "homepage": "www.project.com",
   "description": "Some description.",
   "private": true,
-  "author": "",
+  "author": {
+    "name": "Author name",
+    "url": "http://authorsite.com.br",
+    "email": "author@email.com"
+  },
   "license": "ISC",
   "devDependencies": {
     "grunt": "^0.4.5",
