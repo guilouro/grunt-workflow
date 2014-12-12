@@ -1,6 +1,6 @@
 ## Grunt Workflow
 
-This is a simple grunt workflow for add on projects
+This is a simple grunt workflow for add on projects, inspired by [Davidson Fellipe grunt workflow](https://github.com/davidsonfellipe/grunt-workflow).
 
 ### How to use
 
