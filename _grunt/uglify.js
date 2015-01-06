@@ -1,6 +1,6 @@
 module.exports = {
-	options: {
-		banner:
+    options: {
+    banner:
         "\n" +
         "/*\n" +
         " * -------------------------------------------------------\n" +
@@ -12,10 +12,10 @@ module.exports = {
         " * -------------------------------------------------------\n" +
         " */\n" +
         "\n"
-	},
-	dist: {
-		files: {
-			'<%= path.dest %>js/all.min.js': ['<%= path.src %>js/main.js']
-		}
-	}
+    },
+    dist: {
+        files: {
+            '<%= path.dest %>js/all.min.js': ['<%= path.src %>js/main.js']
+        }
+    }
 };
