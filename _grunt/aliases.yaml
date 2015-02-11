@@ -1,11 +1,13 @@
-default: 
+default:
+  - 'browserSync'
   - 'watch'
 b:
   - 'concurrent:build'
   - 'concurrent:lint'
-r: 
+r:
   - 'b'
   - 'rsync'
 rs:
   - 'connect'
+  - 'browserSync'
   - 'watch'
