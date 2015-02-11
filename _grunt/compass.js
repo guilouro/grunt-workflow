@@ -1,8 +1,8 @@
 module.exports = {
-	dist: {
-		options: {
-			force: true,
-			config: "config.rb",
-		}
-	}
+    dist: {
+        options: {
+            force: true,
+            config: "config.rb",
+        }
+    }
 }
