@@ -1,9 +1,12 @@
 default:
   - 'browserSync'
   - 'watch'
+o:
+  - 'imagemin'
 b:
   - 'concurrent:build'
   - 'concurrent:lint'
+  - 'o'
 r:
   - 'b'
   - 'rsync'

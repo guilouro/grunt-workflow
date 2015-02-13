@@ -12,5 +12,9 @@ module.exports = {
     js: {
         files: ['<%= path.src %>js/**/*.js'],
         tasks: ['uglify', 'jshint'],
+    },
+    img: {
+        files: ['<%= path.src %>**/*.{png,jpg,gif}'],
+        tasks: ['imagemin'],
     }
 };
