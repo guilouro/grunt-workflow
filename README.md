@@ -53,6 +53,7 @@ Set the project information in `package.json`
 * `grunt rs`: running `grunt connect` and `grunt watch`
 * `grunt b`: compile `sass` and running `uglify`, `csslint` and `jshint`
 * `grunt r`: running `grunt b` and deploy files in server
+* `grunt o`: Optimize images with imagemin
 
 ### Dependencies
 
