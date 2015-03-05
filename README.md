@@ -20,7 +20,6 @@ Configure to project folder in `Gruntfile.js`
     ...
 ```
 
-> Configure your paths in `config.rb` to use `sass`
 
 
 ### Project information
