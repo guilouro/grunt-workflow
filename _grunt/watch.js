@@ -7,7 +7,7 @@ module.exports = {
     },
     css: {
         files: ['<%= path.src %>scss/**/*.scss'],
-        tasks: ['compass'],
+        tasks: ['sass:dev'],
     },
     js: {
         files: ['<%= path.src %>js/**/*.js'],
