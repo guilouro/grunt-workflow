@@ -1,4 +1,6 @@
 default:
+  - 'watch'
+s:
   - 'browserSync'
   - 'watch'
 o:
