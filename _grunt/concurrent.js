@@ -1,5 +1,5 @@
 module.exports = {
-    build: ['sass:dist', 'uglify'],
+    build: ['sass:dist', 'browserify', 'uglify'],
     lint: ['csslint', 'jshint'],
     runserver: ['watch', 'django-manage:runserver']
 };

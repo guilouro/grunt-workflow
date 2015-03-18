@@ -1,7 +1,5 @@
-(function(){
-    "use strict";
-    console.log("Ok");
-}());
+"use strict";
+console.log("Ok");
 
 exports.test = function() {
     console.log('Funfou');
