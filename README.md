@@ -58,6 +58,7 @@ Set the project information in `package.json`
 ### Dependencies
 
 * [**BrowserSync**](http://www.browsersync.io/): Time-saving synchronised browser testing.
+* [**Browserify**](http://browserify.org/): Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 * [**Concurrent**](https://www.npmjs.com/package/grunt-concurrent): Run grunt tasks concurrently
 * [**Connect**](https://www.npmjs.com/package/grunt-connect): Run a connect server, indefinitely.
 * [**Csslint**](https://github.com/gruntjs/grunt-contrib-csslint): Lint CSS files
