@@ -15,7 +15,7 @@ module.exports = {
     },
     dist: {
         files: {
-            '<%= path.dest %>js/all.min.js': ['<%= path.src %>js/main.js']
+            '<%= path.dest %>js/main.min.js': ['<%= path.dest %>js/main.js']
         }
     }
 };
